@@ -2,7 +2,7 @@
 
 This repository provides a step-by-step guide to creating a Slack App and setting up an Incoming Webhook. This allows you to send messages to a Slack channel from your application or script.
 ---
-![AWS Config Preview](https://github.com/aatikah/aws-config-auto-remediation/blob/main/slack.png)
+![Slack Preview](https://github.com/aatikah/slack-app-and-webhook/blob/main/slack.png)
 
 ## 📖 Detailed Walkthrough
 For a comprehensive step-by-step guide, including screenshots and detailed explanations, check out the full tutorial on Medium:
